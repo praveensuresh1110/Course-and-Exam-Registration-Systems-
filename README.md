@@ -44,8 +44,6 @@ Specifying the context and requirements of a system
 
 
 
-
-
 # CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
