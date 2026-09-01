@@ -1,7 +1,7 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:212225040333
-# Name:G REVANTH REDDY
+# Reg No:212225040314
+# Name: Praveen S
 # Date:22-08-26
 
 
